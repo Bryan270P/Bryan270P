@@ -45,4 +45,4 @@ async def say(ctx,*,text):
 
 
 
-bot.run('ODg2MDY1ODMzMDk5NTM4NDk0.YTwLHA.ZkgMTZ10GOrRec7LkaOR3L4ibQA')
+bot.run(TOKEN)
